@@ -1,0 +1,40 @@
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\obj\x86\Debug\stok_ayakkabi.Properties.Resources.resources
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\obj\x86\Debug\stok_ayakkabi.Xtra_ana_form.resources
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\obj\x86\Debug\stok-ayakkabi.csproj.GenerateResource.Cache
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\obj\x86\Debug\stok-ayakkabi.csprojResolveAssemblyReference.cache
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\obj\x86\Debug\stok_ayakkabi.Xtra_stok_gir.resources
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\obj\x86\Debug\stok_ayakkabi.Xtra_urunler.resources
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\obj\x86\Debug\stok_ayakkabi.Xtra_canli_satis.resources
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\obj\x86\Debug\stok_ayakkabi.Xtra_satis.resources
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\obj\x86\Debug\stok_ayakkabi.Xtra_satis_rapor.resources
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\DevExpress.Data.v10.1.dll
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\DevExpress.Utils.v10.1.dll
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\DevExpress.XtraBars.v10.1.dll
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\DevExpress.XtraEditors.v10.1.dll
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\DevExpress.XtraGrid.v10.1.dll
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\DevExpress.XtraLayout.v10.1.dll
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\DevExpress.XtraVerticalGrid.v10.1.dll
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\System.Data.dll
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\System.Deployment.dll
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\System.dll
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\System.Drawing.dll
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\System.Windows.Forms.dll
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\System.Xml.dll
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\System.Xml.Linq.dll
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\DevExpress.Data.v10.1.xml
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\DevExpress.Utils.v10.1.xml
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\DevExpress.XtraBars.v10.1.xml
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\DevExpress.XtraEditors.v10.1.xml
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\DevExpress.XtraGrid.v10.1.xml
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\DevExpress.XtraLayout.v10.1.xml
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\DevExpress.XtraVerticalGrid.v10.1.xml
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\Hür&Stok Takip Programı v1.0.exe
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\bin\Debug\Hür&Stok Takip Programı v1.0.pdb
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\obj\x86\Debug\Hür&Stok Takip Programı v1.0.exe.licenses
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\obj\x86\Debug\Hür&Stok Takip Programı v1.0.exe
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\obj\x86\Debug\Hür&Stok Takip Programı v1.0.pdb
+C:\Users\Hürdeniz\Desktop\stok-ayakkabi\stok-ayakkabi\obj\x86\Debug\stok_ayakkabi.Xtra_guncelle.resources
+D:\hürdeniz projeler\programlar\stok-ayakkabi\stok-ayakkabi\obj\x86\Debug\Hür&Stok Takip Programı v1.0.exe
+D:\hürdeniz projeler\programlar\stok-ayakkabi\stok-ayakkabi\obj\x86\Debug\Hür&Stok Takip Programı v1.0.pdb
